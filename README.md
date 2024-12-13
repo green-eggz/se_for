@@ -9,13 +9,13 @@ This is a very simple program that asks the user to input their name and returns
 
 ---
 
-## Technologies Used
-HTML: For structuring the app
-CSS: For styling the app
-JavaScript: For interactivity
-Figma: For creating the prototype
-GitHub Projects: For managing the project 
-GitHub Pages: For hosting the app
+## Programs/Languages Used
+- HTML: For structuring the app
+- CSS: For styling the app
+- JavaScript: For interactivity
+- Figma: For creating the prototype
+- GitHub Projects: For managing the project 
+- GitHub Pages: For hosting the app
 
 ---
 
