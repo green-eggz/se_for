@@ -11,12 +11,17 @@
     <body> <!-- This contains the content to be displayed -->
         <div class="container"> <!-- This groups the content into a container so it can be styled with CSS -->
             <h1>Software Engineering Formative Assignment</h1> <!-- Main heading for the page -->
-            <form id="nameForm"> <!-- Collect user input to get their name, the id will be used in JS file -->
-                <input type="text" id="nameInput" placeholder="Please enter your name:" required> <!-- Set input type as text, display placeholder text, and make this required so the user cannot submit the form without entering in this field -->
-                <button type="submit">Get Your Greeting</button> <!-- Create button to submit the form with the label Get Your Greeting -->
-            </form> <!-- Close the form section -->
+            
+            <div class="box"> <!-- This is the container for the form (input and button) -->
+                <form id="nameForm"> <!-- Collect user input to get their name, the id will be used in JS file -->
+                    <input type="text" id="nameInput" placeholder="Please enter your name:" required> <!-- Set input type as text, display placeholder text, and make this required so the user cannot submit the form without entering in this field -->
+                    <button type="submit">Get Your Greeting</button> <!-- Create button to submit the form with the label Get Your Greeting -->
+                </form> <!-- Close the form section -->
+            </div> <!-- Close the box container -->
+            
             <p id="greeting"></p> <!-- Display the greeting to the user as a paragraph-->
-        </div> <!-- Close the container -->
+        </div> <!-- Close the main container -->
+
         <script src="script.js"></script> <!-- Link to JS file -->
     </body> <!-- Close the body section -->
     
