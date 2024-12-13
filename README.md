@@ -24,7 +24,7 @@ For testing, I used Figma to create a prototype and constantly referred back to 
 I also used the website [Coolors](https://coolors.co/) to design the colour palette for my app.
 
 Below is a screenshot of the Figma prototype:  
-![Figma Prototype Screenshot](https://github.com/green-eggz/se_for/blob/main/protoype.png)
+![Figma Prototype Screenshot](https://github.com/green-eggz/se_for/blob/main/prototype.png)
 
 And here is the color palette designed using Coolors:  
 ![Color Palette Screenshot](https://github.com/green-eggz/se_for/blob/main/colours.png)
