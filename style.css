@@ -1,0 +1,54 @@
+/* This is the body section which defines the global styles for the webpage*/
+body {
+    font-family: Helvetica, sans-serif; /* Set the font to Helvetica with any generic sans serif font as the fallback option*/
+    background-color: #E8EBED; /* Set the background colour to light grey */
+    display: flex; /* Set the body to be a flexible container */
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+    height: 100vh; /* Set body to take up 100% of the visible page */
+    margin: 0; /* Set no margins around the body */
+}
+
+/* This is the container that was referenced earlier in the HTML file, it sets the style for the container */
+.container {
+    text-align: center; /* Align the text center */
+    background: #ffffff;  /* Set the background colour to white */
+    padding: 20px;  /* Set padding to 20 */
+    border-radius: 8px; /* Give the container rounded edges */
+    width: 300px; /* Set container width to 300 */
+}
+
+/* This is the main heading element */
+h1 {
+    font-size: 24px; /* Set font size to 24 */
+    color: #44A1A0;  /* Set text colour to turquoise*/
+}
+
+/* This is the form element */
+form {
+    margin: 20px 0; /* Add margins around the form so it is seperate from the heading and the greeting */
+}
+
+/* This is the input element */
+input[type="text"] {
+    padding: 10px; /* Set padding to 10 */
+    width: 250px; /* Set width to 250 */
+    border: 1px solid #44A1A0; /* Add turqoiuse border */
+    border-radius: 8px; /* Round the corners */
+    margin-bottom: 10px; /* Add padding below the input field so it is seperate from the button */
+}
+
+/* This is the button */
+button {
+    background-color: #ffffff; /* Set background colour to white */
+    color: #223843; /* Set text colour to dark blue */
+    padding: 10px 20px; /* Add padding to the top and bottom and left and right of the button */
+    border: none; /* No border */
+    cursor: pointer; /* Add icon to cursor so its clear this is clickable */
+}
+
+/* This is the greeting text */
+#greeting {
+    font-size: 18px; /* Set font size to 18*/
+    color: #223843; /* Match text colour to other text */
+}
