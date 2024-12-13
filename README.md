@@ -2,9 +2,20 @@
 
 This is a very simple program that asks the user to input their name and returns **Hello, [Name]!** The purpose of this program is to practice: 
 - Using GitHub for source control 
-- Using GitHub Pages for project management 
+- Using GitHub Projects for project management 
+- Using Github Pages for hosting a web application
 - Using Figma for prototyping 
 - Learning to create HTML, CSS, JavaScript, and README files 
+
+---
+
+## Technologies Used
+HTML: For structuring the app
+CSS: For styling the app
+JavaScript: For interactivity
+Figma: For creating the prototype
+GitHub Projects: For managing the project 
+GitHub Pages: For hosting the app
 
 ---
 
@@ -35,13 +46,5 @@ And here is the color palette designed using Coolors:
 
 Go to the Settings, click on Pages and you will see a link to the hosted website. 
 
----
 
-## Technologies Used
-HTML: For structuring the app
-CSS: For styling the app
-JavaScript: For interactivity
-Figma: For creating the prototype
-GitHub Projects: For managing the project 
-GitHub Pages: For hosting the app
 
